@@ -3,9 +3,9 @@
 ## Instructions on How to Use
 
 1. **Download a Version**
-   - [Eaglercraft 1.8 u53](#) (recommended)  
+   - [Eaglercraft 1.8 u53](https://github.com/mandelette/mandelette/raw/refs/heads/main/EaglerCraft%201.8%20u53.zip) (recommended)  
      - Comes as a `.zip` file. Extract after downloading.  
-   - [Eaglercraft 1.12 u2](#)  
+   - [Eaglercraft 1.12 u2](https://github.com/mandelette/mandelette/raw/refs/heads/main/Eaglercraft_1.12%20u2.zip)  
      - Newer version but may be more laggy.
 
 2. **Open the Files**
@@ -28,5 +28,5 @@
   - Start a **shared world**, or  
   - Join the server:  
     ```
-    {SERVER_ADDRESS HERE}
+    Uhhh, I dont have a full time server yet, sorry!
     ```
