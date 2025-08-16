@@ -1,3 +1,32 @@
-Please don't use the lua code without a proper manual. 
+# Eaglercraft Setup Guide
 
-Otherwise, if ur using the minecraft ones, ur good to go 😁 js make sure u know how to download it
+## Instructions on How to Use
+
+1. **Download a Version**
+   - [Eaglercraft 1.8 u53](#) (recommended)  
+     - Comes as a `.zip` file. Extract after downloading.  
+   - [Eaglercraft 1.12 u2](#)  
+     - Newer version but may be more laggy.
+
+2. **Open the Files**
+   - Locate the `.zip` file in your file manager.  
+   - Click the file to view its contents.  
+
+3. **Choose How to Play**
+   - **Extraction Method:**  
+     - Right-click the `.zip` file.  
+     - Select **Extract**.  
+     - Open the extracted folder and run the `.html` file.  
+   - **Compressed Method:**  
+     - Double-click the `.html` file directly inside the `.zip`.
+
+---
+
+## Notes
+- Some relays may be **blocked or not working** due to high demand.  
+- You can either:  
+  - Start a **shared world**, or  
+  - Join the server:  
+    ```
+    {SERVER_ADDRESS HERE}
+    ```
